@@ -6,6 +6,7 @@ hamburger.addEventListener('click', () => {
     navLinks.classList.toggle('active');
 });
 
+
 // Smooth Scrolling
 const links = document.querySelectorAll('.nav-links a');
 
